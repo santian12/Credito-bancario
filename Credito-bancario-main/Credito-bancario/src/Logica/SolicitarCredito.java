@@ -9,7 +9,7 @@ package Logica;
  * @author MODELADO-SIMULACION1
  */
 public class SolicitarCredito {
-    public void crearoli(){
+    public void crearsoli(){
         
         
     }}
